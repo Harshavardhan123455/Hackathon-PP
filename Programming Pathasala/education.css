@@ -1,0 +1,277 @@
+
+.bg-color-nav {
+    border-width: 5px;
+    border-color: white;
+}
+
+.registerHeader {
+    font-size: 30px;
+    font-family: "lobster";
+    color: orange;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.registerName {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: black;
+}
+
+.Refferal {
+    font-size: 15px;
+    font-family: "Roboto";
+    color: blue;
+}
+
+.input-changes {
+    width: 30%;
+    border-radius: 40px;
+}
+
+.color-piker {
+    /* ackground-color: #462929; */
+    background-color: #421d1d;
+
+}
+
+.extra-edit {
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.logo-image {
+    height: 50px;
+    width: 50px;
+}
+
+.bg-image {
+    background-image: url('https://res.cloudinary.com/dvwamiqbq/image/upload/v1677298103/4102879_971_ch7f4t.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
+.Special {
+    color: lightblue;
+    font-family: "monoton";
+    font-size: 80px;
+    font-weight: 600;
+    /*   text-decoration: underline; */
+}
+
+.quite {
+    color: orange;
+    font-family: "lobster";
+    font-size: 40px;
+    font-weight: 200;
+
+}
+
+.explore-button {
+    border-radius: 8px;
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    margin-right: 10px;
+    width: 120px;
+    border-width: 0px;
+}
+
+.transparent-color {
+    width: 120px;
+    border-radius: 8px;
+    background-color: transparent;
+    color: orange;
+    padding: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: orange;
+}
+
+.bg-container {
+    background-color: #f9fbfe;
+    padding-top: 10px;
+}
+
+.choosen-us {
+    color: #183b56;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+
+.choosen-content {
+    color: #5a7184;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+.food-header {
+    font-size: 25px;
+    font-family: Roboto;
+    font-weight: 500;
+}
+
+.wcu-card-container {
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.background {
+    background-color: white;
+    padding: 15px;
+}
+
+.menu {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 26px;
+    font-weight: 600;
+}
+
+.Non-veg-list {
+    border-radius: 16px;
+}
+
+.non-veg-image {
+    border-radius: 16px;
+}
+
+.starters {
+    font-size: 18px;
+}
+
+.view-all {
+    color: #d0b200;
+}
+
+.fruits-container {
+    background-color: #f9fbfe;
+}
+
+.fruits-image {
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.fresh-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.health-heading {
+    color: #5a7184;
+    font-family: Roboto;
+    font-size: 16px;
+}
+
+.health-button {
+    background-color: #d0b200;
+    border-radius: 10px;
+    width: 150px;
+    padding: 10px;
+    border: 0px;
+    color: white;
+}
+
+.fruits {
+    background-color: white;
+}
+
+.visa-card {
+    height: 60px;
+    width: 60px;
+}
+
+.thank-container {
+    background-color: #d0b2001a;
+}
+
+.Thank-Heading {
+    font-size: 30px;
+    font-family: "Roboto";
+    color: #183b56;
+    font-weight: 600;
+}
+
+.Thank-paragraph {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #5a7184;
+    font-weight: 400
+}
+
+.Gift-image {
+    width: 270px;
+}
+
+.gift-redeem {
+    background-color: #d0b200;
+    border-radius: 10px;
+    width: 150px;
+    padding: 10px;
+    border: 0px;
+    color: white;
+}
+
+.follow-us-container {
+    background-color: white;
+}
+
+.follow-us-heading {
+    font-family: "Roboto";
+    font-weight: 600;
+    color: #183b56;
+    font-size: 30px;
+}
+
+.icon-image {
+    color: #d0b200;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+.icon-contaioner {
+    height: 60px;
+    width: 60px;
+    background-color: #faf7e8;
+    text-align: center;
+    border-radius: 40px;
+    padding: 10px;
+}
+
+.background-part {
+    background-color: #0d2436;
+}
+
+.email-id {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #959ead;
+    font-weight: 600;
+}
+
+.Address-for-hotel {
+    color: #959ead;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.fa-solid{
+    font-size: 80px;
+    color:#d0b200 ;
+}
+
+span.cost{
+    font-weight: 400;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 100px;
+}
